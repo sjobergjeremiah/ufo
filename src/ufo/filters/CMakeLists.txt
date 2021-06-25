@@ -29,6 +29,8 @@ set ( filters_files
       ObsBoundsCheck.h
       ObsProcessorBase.cc
       ObsProcessorBase.h
+      PracticalBoundsCheck.cc
+      PracticalBoundsCheck.h
       MetOfficeBuddyCheck.cc
       MetOfficeBuddyCheck.h
       MetOfficeBuddyCheckParameters.h
